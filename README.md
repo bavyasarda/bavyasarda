@@ -257,21 +257,6 @@ me = BavyaSarda()
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
-
-### 💰 [FinPilot AI](https://github.com/bavyasarda)
-> AI-powered personal finance assistant — Multi-agent system
-
-- 🤖 **5 specialized agents:** Parser, Goal Monitor, Auditor, Intervention, Autopilot
-- 🧩 Multi-agent orchestration with chain-of-thought reasoning
-- 📊 Structured output prompting + confidence scoring
-- ⚡ FastAPI backend + React 18 / Vite / Tailwind frontend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![LLM](https://img.shields.io/badge/Multi--Agent_LLM-74AA9C?style=flat-square&logo=openai&logoColor=white)
-
-</td>
 </tr>
 </table>
 </div>
