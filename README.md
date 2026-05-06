@@ -56,13 +56,148 @@ me = BavyaSarda()
 
 <div align="center">
 
-| 🥇 | Achievement | Details |
-|:--:|:------------|:--------|
-| 📄 | **LREC 2026 — Published Research** | Palma de Mallorca, Spain · Ranked **4th / 9 teams** · LLM-judge score **4.76/5** |
-| 🏅 | **Naukri Campus Young Turks 2025** | **Top 1%** nationally among thousands of participants |
-| 💻 | **LeetCode** | **400+ problems solved** · Top **30% globally** |
-| 🤖 | **Smart India Hackathon** | National innovation challenge — real-world problem solving |
-| 🦾 | **RoboWeek 3.0** | Robotics & automation national competition |
+<!-- ── STAT BADGES ROW ── -->
+<p>
+  <img src="https://img.shields.io/badge/LREC%202026-Accepted%20%F0%9F%87%AA%F0%9F%87%B8-0d1117?style=for-the-badge&labelColor=1f6feb&color=0d1117&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Rank-4th%20%2F%209%20Teams-0d1117?style=for-the-badge&labelColor=388bfd&color=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LLM--Judge%20Score-4.76%20%2F%205.0-0d1117?style=for-the-badge&labelColor=3fb950&color=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/National%20Rank-Top%201%25-0d1117?style=for-the-badge&labelColor=d29922&color=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LeetCode-400%2B%20Solved-0d1117?style=for-the-badge&labelColor=ffa657&color=0d1117&logo=leetcode&logoColor=ffa657" />
+</p>
+
+<br/>
+
+<!-- ── ACHIEVEMENT CARDS ── -->
+<table>
+<tr>
+<!-- Card 1 -->
+<td width="33%" align="center" valign="top">
+<br/>
+
+```
+┌─────────────────────────┐
+│  📄  RESEARCH           │
+│  ─────────────────────  │
+│  LREC 2026              │
+│  Palma de Mallorca 🇪🇸  │
+│                         │
+│  Rank   →  4th / 9      │
+│  Score  →  4.76 / 5.0   │
+│  Method →  LLM-as-Judge  │
+└─────────────────────────┘
+```
+
+![Status](https://img.shields.io/badge/STATUS-PUBLISHED-3fb950?style=flat-square&labelColor=0d1117)
+
+</td>
+<!-- Card 2 -->
+<td width="33%" align="center" valign="top">
+<br/>
+
+```
+┌─────────────────────────┐
+│  🏅  NATIONAL AWARD     │
+│  ─────────────────────  │
+│  Naukri Campus          │
+│  Young Turks 2025       │
+│                         │
+│  Percentile  →  Top 1%  │
+│  Scope  →  Pan-India    │
+│  Field  →  Tech Skills  │
+└─────────────────────────┘
+```
+
+![Status](https://img.shields.io/badge/PERCENTILE-TOP%201%25-d29922?style=flat-square&labelColor=0d1117)
+
+</td>
+<!-- Card 3 -->
+<td width="33%" align="center" valign="top">
+<br/>
+
+```
+┌─────────────────────────┐
+│  💻  COMPETITIVE DSA    │
+│  ─────────────────────  │
+│  LeetCode               │
+│  Problem Solving         │
+│                         │
+│  Solved  →  400+        │
+│  Rank    →  Top 30%     │
+│  Focus   →  Algorithms  │
+└─────────────────────────┘
+```
+
+![Status](https://img.shields.io/badge/GLOBAL-TOP%2030%25-388bfd?style=flat-square&labelColor=0d1117)
+
+</td>
+</tr>
+<tr>
+<!-- Card 4 -->
+<td width="33%" align="center" valign="top">
+<br/>
+
+```
+┌─────────────────────────┐
+│  🤖  HACKATHON          │
+│  ─────────────────────  │
+│  Smart India            │
+│  Hackathon (SIH)        │
+│                         │
+│  Level   →  National    │
+│  Type    →  Innovation  │
+│  Focus   →  Real-World  │
+└─────────────────────────┘
+```
+
+![Status](https://img.shields.io/badge/LEVEL-NATIONAL-bc8cff?style=flat-square&labelColor=0d1117)
+
+</td>
+<!-- Card 5 -->
+<td width="33%" align="center" valign="top">
+<br/>
+
+```
+┌─────────────────────────┐
+│  🦾  ROBOTICS           │
+│  ─────────────────────  │
+│  RoboWeek 3.0           │
+│  Hackathon              │
+│                         │
+│  Domain  →  Automation  │
+│  Type    →  National    │
+│  Skills  →  Collab+Eng  │
+└─────────────────────────┘
+```
+
+![Status](https://img.shields.io/badge/DOMAIN-ROBOTICS-ff7b72?style=flat-square&labelColor=0d1117)
+
+</td>
+<!-- Card 6: CGPA filler -->
+<td width="33%" align="center" valign="top">
+<br/>
+
+```
+┌─────────────────────────┐
+│  🎓  ACADEMICS          │
+│  ─────────────────────  │
+│  Galgotias University   │
+│  B.Tech CSE             │
+│                         │
+│  CGPA    →  9.47 / 10   │
+│  Batch   →  2023–2027   │
+│  Stream  →  CS + AI     │
+└─────────────────────────┘
+```
+
+![Status](https://img.shields.io/badge/CGPA-9.47%20%2F%2010-3fb950?style=flat-square&labelColor=0d1117)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -169,10 +304,9 @@ me = BavyaSarda()
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=for-the-badge&logo=jenkins&logoColor=D24939)
 
 **〔 Automation · Tools 〕**
 
