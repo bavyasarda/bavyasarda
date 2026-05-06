@@ -319,8 +319,8 @@ me = BavyaSarda()
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-bhavyasarda19%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:bhavyasarda19@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B_Solved-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/YOUR_LEETCODE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/bavya-sarda-8a5011270/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B_Solved-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)]([https://leetcode.com/u/bavya_sarda/])
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://bavyasarda.github.io/)
 
 <br/>
