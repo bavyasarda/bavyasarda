@@ -284,14 +284,10 @@ me = BavyaSarda()
 ![Transformers](https://img.shields.io/badge/Transformers-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Eng-0d1117?style=for-the-badge&logo=openai&logoColor=74AA9C)
 
-**〔 Web · Backend · Cloud 〕**
+**〔 Cloud 〕**
 
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
 **〔 Automation · Tools 〕**
 
