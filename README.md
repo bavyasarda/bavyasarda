@@ -1,177 +1,234 @@
 <div align="center">
 
-```
-██████╗  █████╗ ██╗   ██╗██╗   ██╗ █████╗
-██╔══██╗██╔══██╗██║   ██║╚██╗ ██╔╝██╔══██╗
-██████╔╝███████║██║   ██║ ╚████╔╝ ███████║
-██╔══██╗██╔══██║╚██╗ ██╔╝  ╚██╔╝  ██╔══██║
-██████╔╝██║  ██║ ╚████╔╝    ██║   ██║  ██║
-╚═════╝ ╚═╝  ╚═╝  ╚═══╝     ╚═╝   ╚═╝  ╚═╝  SARDA
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=7EE787&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+%7C+NLP+Researcher;LREC+2026+Published+%7C+Ranked+4th+%2F+9+Teams;Fine-tuning+LLMs+%7C+Building+Voice+AI;Top+1%25+Nationally+%E2%80%94+Naukri+Campus+2025;Open+to+SDE+%2F+AI+%2F+ML+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bavya%20Sarda&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%7C%20NLP%20Researcher%20%7C%20Full-Stack%20Developer&descSize=16&descColor=a5d6ff&descAlignY=62" width="100%"/>
 
 </div>
 
 ---
 
-## `$ whoami`
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=%24+whoami+%E2%86%92+AI+Engineer+%7C+NLP+Researcher+%7C+SDE+Aspirant;%24+cat+achievement.log+%E2%86%92+LREC+2026+Published+%F0%9F%87%AA%F0%9F%87%B8+Ranked+4th%2F9;%24+ls+skills%2F+%E2%86%92+QLoRA+%7C+RAG+%7C+LLMs+%7C+Voice+AI+%7C+Fine-tuning;%24+git+log+%E2%86%92+400%2B+LeetCode+%7C+CGPA+9.47+%7C+Top+1%25+National;%24+echo+status+%E2%86%92+Open+to+SDE+%2F+AI+%2F+ML+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<br/>
+
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+### 🧬 `./about_me`
 
 ```python
-bavya = {
-    "name"        : "Bavya Sarda",
-    "role"        : ["AI/ML Engineer", "NLP Researcher", "SDE Aspirant"],
-    "university"  : "Galgotias University, Greater Noida",
-    "cgpa"        : 9.47,
-    "year"        : "Pre-Final Year (2023–2027)",
-    "publication" : "LREC 2026, Palma de Mallorca 🇪🇸  [Ranked 4th / 9 Teams]",
-    "status"      : "✅ open_to_opportunities",
-    "contact"     : "bhavyasarda19@gmail.com",
-}
+class BavyaSarda:
+    def __init__(self):
+        self.name       = "Bavya Sarda"
+        self.role       = "AI/ML Engineer & NLP Researcher"
+        self.university = "Galgotias University (2023–2027)"
+        self.cgpa       = 9.47  # out of 10
+
+    @property
+    def highlights(self):
+        return {
+            "publication" : "LREC 2026 🇪🇸 — Palma de Mallorca, Spain",
+            "rank"        : "4th / 9 Teams — FinCausal Shared Task",
+            "score"       : "4.76 / 5.0 — LLM-as-a-Judge",
+            "national"    : "Top 1% — Naukri Campus Young Turks 2025",
+            "leetcode"    : "400+ solved | Top 30% globally",
+        }
+
+    def currently(self):
+        return [
+            "⚡ Building SolarVox AI (voice + LLM pipeline)",
+            "🔬 Researching QLoRA fine-tuning for financial NLP",
+            "🤖 Exploring agentic AI & LLM-as-a-judge systems",
+        ]
+
+me = BavyaSarda()
 ```
+
+<br clear="right"/>
 
 ---
 
-## `$ cat current_focus.txt`
+## 🏆 `cat achievements.log`
 
-```
-▶  Building SolarVox AI   — real-time conversational AI + multilingual voice agent
-▶  Research in QLoRA      — fine-tuning LLMs for financial NLP tasks
-▶  Exploring              — LLM-as-a-judge, agentic pipelines, vLLM internals
-```
+<div align="center">
+
+| 🥇 | Achievement | Details |
+|:--:|:------------|:--------|
+| 📄 | **LREC 2026 — Published Research** | Palma de Mallorca, Spain · Ranked **4th / 9 teams** · LLM-judge score **4.76/5** |
+| 🏅 | **Naukri Campus Young Turks 2025** | **Top 1%** nationally among thousands of participants |
+| 💻 | **LeetCode** | **400+ problems solved** · Top **30% globally** |
+| 🤖 | **Smart India Hackathon** | National innovation challenge — real-world problem solving |
+| 🦾 | **RoboWeek 3.0** | Robotics & automation national competition |
+
+</div>
 
 ---
 
-## `$ ls ./tech-stack/`
+## 🚀 `git log --oneline --featured`
 
-**Languages**
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ [SolarVox AI](https://github.com/bavyasarda)
+> Real-time conversational AI system with multilingual outbound voice agent
+
+- 🎙️ **Voice pipeline:** ElevenLabs TTS → DeepGram STT → GPT-4.1
+- 📞 **Outbound calls** via Twilio for automated solar consultations
+- ⚡ Low-latency **WebSockets** for real-time message processing
+- 🔐 Supabase auth + conversation management dashboard
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![GPT-4](https://img.shields.io/badge/GPT--4.1-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 [QRAFT — LREC 2026](https://github.com/bavyasarda)
+> QLoRA Retrieval-Augmented Fine-Tuning for Financial NLP
+
+- 🧠 Fine-tuned **Qwen3-4B-Instruct** with QLoRA on 2K annotated instances
+- 📚 **TF-IDF retrieval** to guide generation & causal span identification  
+- 🏆 **4.76/5** LLM-as-a-judge score · **Accepted at LREC 2026**
+- 📊 Ranked **4th out of 9 teams** on FinCausal shared task
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![QLoRA](https://img.shields.io/badge/QLoRA-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ [QwenVision-OCR](https://github.com/bavyasarda)
+> Multimodal OCR for Hindi & English documents
+
+- 🖼️ **Qwen-VL-2B-Instruct** + RAG pipeline
+- 🎯 **95%+ accuracy** on multilingual document extraction
+- 📱 Accessible browser UI — JSON + paragraph output formats
+- ♿ WCAG-aware responsive design
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=flat-square&logo=pytorch&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 [FinPilot AI](https://github.com/bavyasarda)
+> AI-powered personal finance assistant — Multi-agent system
+
+- 🤖 **5 specialized agents:** Parser, Goal Monitor, Auditor, Intervention, Autopilot
+- 🧩 Multi-agent orchestration with chain-of-thought reasoning
+- 📊 Structured output prompting + confidence scoring
+- ⚡ FastAPI backend + React 18 / Vite / Tailwind frontend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![LLM](https://img.shields.io/badge/Multi--Agent_LLM-74AA9C?style=flat-square&logo=openai&logoColor=white)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🧠 `ls ./tech-stack/ -la`
+
+<div align="center">
+
+**〔 Languages 〕**
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-**AI / ML / NLP**
+**〔 AI · ML · NLP 〕**
 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![LLMs](https://img.shields.io/badge/LLMs-0d1117?style=for-the-badge&logo=openai&logoColor=74AA9C)
-![QLoRA](https://img.shields.io/badge/QLoRA%20%2F%20LoRA-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![RAG](https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=elasticsearch&logoColor=005571)
+![QLoRA](https://img.shields.io/badge/QLoRA%2FLoRA-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![RAG](https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=elasticsearch&logoColor=00BFB3)
 ![Transformers](https://img.shields.io/badge/Transformers-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0d1117?style=for-the-badge&logo=openai&logoColor=74AA9C)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Eng-0d1117?style=for-the-badge&logo=openai&logoColor=74AA9C)
 
-**Dev & Cloud**
+**〔 Web · Backend · Cloud 〕**
 
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=for-the-badge&logo=jenkins&logoColor=D24939)
 
-**Automation & Tools**
+**〔 Automation · Tools 〕**
 
 ![N8N](https://img.shields.io/badge/N8N-0d1117?style=for-the-badge&logo=n8n&logoColor=EA4B71)
 ![Zapier](https://img.shields.io/badge/Zapier-0d1117?style=for-the-badge&logo=zapier&logoColor=FF4A00)
 ![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 ![Google Colab](https://img.shields.io/badge/Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=F9AB00)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
----
-
-## `$ git log --featured-projects`
-
-<table>
-<tr>
-<td width="50%">
-
-### ⚡ SolarVox AI
-Real-time conversational AI system with multilingual outbound voice calls. Full pipeline: **ElevenLabs TTS** → **DeepGram STT** → **GPT-4.1** → **Twilio**.
-
-`Next.js` `Node.js` `WebSockets` `Twilio` `Supabase`
-
-</td>
-<td width="50%">
-
-### 🔬 QRAFT — QLoRA RAG Fine-Tuning
-Causal span extraction in financial documents. Fine-tuned **Qwen3-4B-Instruct** with QLoRA + TF-IDF retrieval. LLM-judge score: **4.76/5**. **Accepted at LREC 2026.**
-
-`QLoRA` `Qwen3` `TF-IDF` `RAG` `FinCausal`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 👁️ QwenVision-OCR
-Multimodal OCR using **Qwen-VL-2B-Instruct** + RAG for Hindi & English documents. **95%+ accuracy**. Accessible browser UI with JSON output.
-
-`Qwen-VL` `RAG` `Python` `Transformers` `HTML`
-
-</td>
-<td width="50%">
-
-### 💰 FinPilot AI
-AI-powered personal finance assistant. Multi-agent system with goal monitoring, subscription auditing & savings autopilot.
-
-`FastAPI` `React` `Multi-Agent` `LLM` `OpenRouter`
-
-</td>
-</tr>
-</table>
-
----
-
-## `$ cat achievements.log`
-
-```
-[✅ PUBLISHED  ] LREC 2026 — Palma de Mallorca, Spain
-                 QRAFT: QLoRA RAG Fine-Tuning for Financial NLP
-                 Ranked 4th out of 9 teams | LLM-judge score: 4.76/5
-
-[🥇 NATIONAL   ] Naukri Campus Young Turks 2025
-                 Top 1% among thousands of participants nationally
-
-[💻 LEETCODE   ] 400+ problems solved | Top 30% globally
-
-[🤖 HACKATHON  ] Smart India Hackathon — national innovation challenge
-[🤖 HACKATHON  ] RoboWeek 3.0 — robotics & automation competition
-```
-
----
-
-## `$ htop --stats`
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bavyasarda&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=7ee787&text_color=c9d1d9" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bavyasarda&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bavyasarda&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ffa657&currStreakLabel=c9d1d9" />
 </div>
 
 ---
 
-## `$ ssh connect@bavya`
+## 📊 `htop --github`
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bavyasarda&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bavyasarda&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=bavyasarda&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=ffa657&currStreakLabel=c9d1d9&border_radius=10" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bavyasarda&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffa657&area=true&hide_border=true&border_radius=10" width="95%"/>
+</div>
+
+---
+
+## 📬 `ssh connect@bavya.dev`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:bhavyasarda19@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/YOUR_LEETCODE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Gmail](https://img.shields.io/badge/Gmail-bhavyasarda19%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:bhavyasarda19@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B_Solved-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/YOUR_LEETCODE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=bavyasarda&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bavyasarda&style=flat-square&color=58a6ff&label=profile+views" />
-</div>
-
-<div align="center">
 
 ```
-// always learning · always building · always shipping
+╔══════════════════════════════════════════════════════════╗
+║   "ship fast  ·  learn deep  ·  build things that matter"  ║
+╚══════════════════════════════════════════════════════════╝
 ```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
